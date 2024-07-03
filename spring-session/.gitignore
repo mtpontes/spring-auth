@@ -12,5 +12,4 @@ log/
 target/
 .idea/
 build/
-.mvn/
 HELP.md
